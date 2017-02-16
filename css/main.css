@@ -1,0 +1,15 @@
+body{
+    background-color: #f9f9f9;
+    padding-top:50px;
+}
+
+img.picture {
+    padding-top: 10px;
+    max-width: 50%;
+    max-height:60%;
+    box-shadow: 3px 3px 3px #eeeeee;
+}
+
+.intro-text {
+    padding-top: 20px;
+}
