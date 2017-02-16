@@ -28,7 +28,7 @@
                 <div class="text-center">
                     <?php $randomArrayKey =  array_rand($arrayOfQuotes); ?>
                     <div>
-                        <blockquote><?php echo $arrayOfQuotes[$randomArrayKey];?></blockquote>
+                        <blockquote><?=$arrayOfQuotes[$randomArrayKey]?></blockquote>
                     </div>
                 </div>
             </div>
